@@ -1,1 +1,1 @@
-This is a to do web project where you can do all CRUD operations on your movies. I used Entity Framework Core(as ORM framework) with code first approach, FluentValidation(for server side validation) and Microsoft SQL Server(as database).
+This is a movie web project where you can do all CRUD operations on your movies. I used Entity Framework Core(as an ORM framework) with code first approach, FluentValidation(for server side validation) and Microsoft SQL Server(as a database).
